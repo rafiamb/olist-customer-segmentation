@@ -46,7 +46,7 @@ Below is the overview page from the Tableau dashboard. The entire interactive da
 
 ![Dashboard](Dashboard.png)
 
-### Customer Behavior Trends:
+### Customer Behavior Trends
 
 | Segment | Customers | % of Base | Median Spend |
 |---|---|---|---|
@@ -61,7 +61,7 @@ Below is the overview page from the Tableau dashboard. The entire interactive da
 - At Risk and Lost customers combined make up 28% of the base but generate the least revenue; minimizing spend here frees budget for higher-value segments
 - The data reveals a clear drop-off in both recency and spend as customers move from Champions to Lost
 
-### Recommendations:
+### Recommendations
 
 Each segment requires a distinct strategy to maximize retention ROI.
 
