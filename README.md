@@ -1,4 +1,4 @@
-# Olist Customer Segmentation
+# Olist Customer Segmentation Analysis
 
 **97% of Olist's 93,357 customers never place a second order.** This project identifies who those customers are, what they're worth, and what to do about it.
 
